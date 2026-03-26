@@ -1,10 +1,10 @@
 # NPJ Digital Medicine, Principally Accept
 A unified deep learning framework for cross-platform harmonization of multitracer PET quantification in neurodegenerative disease
+🚀🚀🚀Check our paper on (https://www.medrxiv.org/content/10.1101/2025.10.20.25338339v1)
+
 # MICCAI2025, Early Accpet, top 9%
 Multi-tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-Adaptive Routing 
-
-
-🚀🚀🚀Check our paper on ([https://link.springer.com/chapter/10.1007/978-3-032-05169-1_40](https://link.springer.com/chapter/10.1007/978-3-032-05169-1_40)) (https://www.medrxiv.org/content/10.1101/2025.10.20.25338339v1)
+🚀🚀🚀Check our paper on ([https://link.springer.com/chapter/10.1007/978-3-032-05169-1_40](https://link.springer.com/chapter/10.1007/978-3-032-05169-1_40)) 
 
 ## Citation
 
