@@ -3,7 +3,6 @@ A unified deep learning framework for cross-platform harmonization of multitrace
 # MICCAI2025, Early Accpet, top 9%
 Multi-tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-Adaptive Routing ()
 
-PyTorch implementation for **Multi-Tracer-PETMR-Uptake-Correction**
 
 🚀🚀🚀Check our paper on ([https://link.springer.com/chapter/10.1007/978-3-032-05169-1_40](https://link.springer.com/chapter/10.1007/978-3-032-05169-1_40)) (https://www.medrxiv.org/content/10.1101/2025.10.20.25338339v1)
 
