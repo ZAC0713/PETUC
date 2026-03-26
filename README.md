@@ -1,5 +1,5 @@
 # NPJ Digital Medicine, Principally Accept
-A unified deep learning framework for cross-platform harmonization of multitracer PET quantification in neurode-generative disease.
+A unified deep learning framework for cross-platform harmonization of multitracer PET quantification in neurodegenerative disease.
 
 🚀🚀🚀Check our paper on https://www.medrxiv.org/content/10.1101/2025.10.20.25338339v1
 
