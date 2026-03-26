@@ -1,0 +1,26 @@
+# CBAMUNet
+in_channels: 1
+out_channels: 1
+base_channels: 64
+
+# MRI_Encoder
+in_channels_me: 1
+out_channels_me: 1
+img_size: 128
+patch_size: 4
+dim: 512
+depth: 8
+num_heads: 8
+mlp_dim: 2048
+
+# Training
+epochs: 200 
+warm_epochs: 10
+batch_size: 32
+loss_type : "mse+lpips"
+lpips_weight: 0.01
+net_type : 'vgg'
+batch_print_interval: 50
+checkpoint_save_interval: 5
+save_path: 'Your path'
+device: 'cuda'
