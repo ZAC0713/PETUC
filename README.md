@@ -14,7 +14,7 @@
 
 This repository provides the implementation for multi-tracer PET-MR uptake correction research.
 
-**Multi-tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-Adaptive Routing**  
+#Multi-tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-Adaptive Routing
 
 [Aocheng Zhong](https://scholar.google.com/citations?user=H94o23UAAAAJ), Haolin Huang, Jing Wang, Zhenrong Shen, Haiyu Song, Junlei Wu, Yuhua Zhu, Yang Liu, Chuantao Zuo, Qian Wang  
 MICCAI, 2025  
