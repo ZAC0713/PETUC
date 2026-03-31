@@ -7,7 +7,7 @@
 
 ## News
 
-- Multi-tracer PET-MR uptake correction work has been accepted by **MICCAI 2025, Early Accpet, top 9%**.
+- Multi-tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-Adaptive Routing has been accepted by **MICCAI 2025, Early Accpet, top 9%**.
 - A unified deep learning framework for cross-platform harmonization of multitracer PET quantification in neurodegenerative disease has been provisionally accepted by **npj Digital Medicine**.
 
 ## Paper
