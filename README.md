@@ -19,9 +19,10 @@ This repository provides the implementation for multi-tracer PET-MR uptake corre
 MICCAI, 2025  
 [paper](https://link.springer.com/chapter/10.1007/978-3-032-05169-1_40) | [code](https://github.com/MedAIerHHL/Multi-Tracer-PETMR-Uptake-Correction)
 
-**A unified deep learning framework for cross-platform harmonization of multitracer PET quantification in neurodegenerative disease**  
-npj Digital Medicine (Provisionally Accepted), 2025  
-[paper](https://www.medrxiv.org/content/10.1101/2025.10.20.25338339v1) | [code](https://github.com/MedAIerHHL/Multi-Tracer-PETMR-Uptake-Correction)
+**A unified deep learning framework for cross-platform harmonization of multitracer PET quantification in neurodegenerative disease**
+Jing Wang, [Aocheng Zhong](https://scholar.google.com/citations?user=H94o23UAAAAJ), Qian Xu, Haolin Huang, Yuhua Zhu, Jiaying Lu, Min Wang, Jiehui Jiang, Chengyang Li, Ming Ni, Kaicong Sun, Yihui Guan, Jie Lu, Mei Tian, Dinggang Shen, Huiwei Zhang, Qian Wang & Chuantao Zuo
+npj Digital Medicine (Published), 2026  
+[paper]([https://www.nature.com/articles/s41746-026-02570-0]) | [code](https://github.com/MedAIerHHL/Multi-Tracer-PETMR-Uptake-Correction)
 
 ## Citation
 
